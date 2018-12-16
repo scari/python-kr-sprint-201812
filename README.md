@@ -6,14 +6,14 @@
 
 
  - Pandas: https://pandas.pydata.org/
-   - 이슈 목록: https://github.com/pandas-dev/pandas/issues
+   - 이슈 목록: 
+     - https://github.com/pandas-dev/pandas/issues/
+     - https://github.com/pandas-dev/pandas/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+   - Contribution Guide: http://pandas.pydata.org/pandas-docs/stable/contributing.html
+   
  - Django: https://www.djangoproject.com/
-   - 환경 구성하기: https://docs.djangoproject.com/en/dev/intro/contributing/
    - 이슈 목록: https://code.djangoproject.com/query
      - [할당되지 않은 Cleanup/optomization 이슈 목록](https://code.djangoproject.com/query?status=new&type=Cleanup%2Foptimization&col=id&col=summary&col=type&col=status&col=owner&col=component&col=version&desc=1&order=id)
      - [할당되지 않은 Bug 이슈 목록](https://code.djangoproject.com/query?status=new&type=Bug&col=id&col=summary&col=type&col=status&col=owner&col=component&col=version&desc=1&order=id)
    - 첫 기여자 안내: https://docs.djangoproject.com/ko/2.1/internals/contributing/new-contributors/
 
-
-오타를 찾아 고치는 것도 좋은 시작입니다 :D
-https://pypi.org/project/misspellings/
