@@ -9,4 +9,5 @@
    - 이슈 목록: https://github.com/pandas-dev/pandas/issues
  - Django: https://www.djangoproject.com/
    - 이슈 목록: https://code.djangoproject.com/query
+   - 첫 기여자 안내: https://docs.djangoproject.com/ko/2.1/internals/contributing/new-contributors/
 
