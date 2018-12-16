@@ -13,3 +13,6 @@
      - [할당되지 않은 Bug 이슈 목록](https://code.djangoproject.com/query?status=new&type=Bug&col=id&col=summary&col=type&col=status&col=owner&col=component&col=version&desc=1&order=id)
    - 첫 기여자 안내: https://docs.djangoproject.com/ko/2.1/internals/contributing/new-contributors/
 
+
+오타를 찾아 고치는 것도 좋은 시작입니다 :D
+https://pypi.org/project/misspellings/
